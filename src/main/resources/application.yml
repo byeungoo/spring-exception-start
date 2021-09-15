@@ -1,0 +1,7 @@
+server:
+  error:
+    whitelabel:
+      enabled: false
+    include-message: always
+    include-stacktrace: always
+    include-binding-errors: always
