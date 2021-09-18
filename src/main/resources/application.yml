@@ -3,5 +3,5 @@ server:
     whitelabel:
       enabled: false
     include-message: always
-    include-stacktrace: always
-    include-binding-errors: always
+    #include-stacktrace: always
+    #include-binding-errors: always
